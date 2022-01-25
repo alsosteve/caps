@@ -1,9 +1,37 @@
-# caps
+# Caps
 
-## Instillation
+## Author
 
-## Ussage
+**Steve - AlsoSteve - Ngo**
 
-## Routes
+### Lab 11
 
-## Features
+* This is the first day of our CAPs thing, written in Node.js.
+
+* In this part, the goal is to establish a system of events and handlers the point is to change and update the events system as we move along while the handlers stay pretty much as-is. “Delivering a package” won’t change the handler even when the event does.
+
+#### User Stories n Stuff
+
+*The following user/developer stories detail the major functionality for this part of the project.*
+
+**As a vendor**, I want the system to alert when a package is going to be picked up. 
+
+**As a driver**, I want a notification when a package is ready to be delivered. 
+
+**As a driver**, I want to send a notification to the system when I have picked up a package and it's in transit. 
+
+  * I want to send a notification to the system when I have delivered a package. 
+  
+**As a vendor**, I want a notification when my package is delivered. 
+
+#### Developer Experience
+
+*As a developer, the following are our stories that pertain to those above:*
+
+**As a developer**, I want to use industry standards that will manage the status of each package. 
+
+    * I want to create an event-driven-system that gives me the ability to write code directly in response to events happening in real time.
+
+#### Credit and Collaboration
+
+* This code was written alog side **Matt Miguel** and **Joey Hernandez**
