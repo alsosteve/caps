@@ -11,7 +11,7 @@
 * In this part, the goal is to establish a system of events and handlers the point is to change and update the events system as we move along while the handlers stay pretty much as-is. “Delivering a package” won’t change the handler even when the event does.
 
 ### Whiteboard Process
-![lab11](lab11/lab11.png)
+![lab11](img/lab11.png)
 
 #### User Stories n Stuff
 
@@ -48,6 +48,7 @@
 * The core functionality we’ve already built remains the same. The difference in this phase is that we’ll be creating a networking layer. As such, the user stories that speak to application functionality remain unchanged, but a new set theme emerges to get us through the refactoring.
 
 ### Whiteboard Process
+![lab12](img/lab12.png)
 
 #### User Stories n Stuff
 
@@ -72,3 +73,4 @@
     * I want to create an event-driven-system that gives me the ability to write code directly in response to events happening in real time.
     
 #### Credit and Collaboration
+> “I want to thank me for believing in me, I want to thank me for doing all this hard work. I wanna thank me for having no days off. I wanna thank me for never quitting. I wanna thank me for always being a giver and trying to give more than I receive. I wanna thank me for trying to do more right than wrong. I wanna thank me for being me at all times." - Snoop Dogg
