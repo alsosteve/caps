@@ -1,5 +1,7 @@
 'use strict';
 
+// this the logger[caps in the vid]
+
 const eventPool = require('./eventPool.js');
 const vendor = require('./vendor.js');
 const driver = require('./driver.js');
